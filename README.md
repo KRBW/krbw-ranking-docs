@@ -10,3 +10,17 @@
 
 #### Contact : ICE0208#3725
 ##### The source code of this project will never be disclosed.
+#
+---
+# Usage
+### /krbwhelp
+![commandlist](./img/commandlist.jpg)
+#
+#
+### /player <playername>
+![playerinfo](./img/playerinfo.jpg)
+#
+#
+### /wins <mode>
+![winsoverall](./img/winsoverall.jpg)
+#
