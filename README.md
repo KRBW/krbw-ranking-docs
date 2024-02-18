@@ -10,7 +10,7 @@
 
 &nbsp;
 
-#### Contact : o.**w**.o (discord)
+#### Contact : `iceice_28` (discord)
 
 ##### The source code of this project will never be disclosed.
 
